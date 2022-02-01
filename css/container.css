@@ -92,14 +92,18 @@ article li{
 	font-family: Raleway, Helvetica, sans-serif;
 }
 .question{ 
+        width: 60%;
 	margin-left: 30px;	
 	text-align: left;
 	font-family: Rubik, sans-serif;
 	font-weight: bold;
+        color : #d6cf9c;
 } 
 .reponse{ 
+        width: 60%;
 	margin-right: 30px;
 	text-align: right;
 	font-family: Rubik, sans-serif;
 	font-weight: bold;
+        color: #a5d69c;
 }
